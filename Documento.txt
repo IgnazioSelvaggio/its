@@ -1,8 +1,0 @@
-primo doc in github
-secondo commit
-quarto commit
-<<<<<<< HEAD
-sesto commit
-=======
-quinto commit
->>>>>>> 92a3f178269df4370dd496278decab64bccf6594
